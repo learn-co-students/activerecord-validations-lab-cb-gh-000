@@ -1,7 +1,7 @@
 # ActiveRecord Validations Lab
 
 # Basic Validations
-
+n
 Add validations to these models such that...
 
 1. All authors have a name
